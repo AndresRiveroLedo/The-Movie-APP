@@ -1,0 +1,25 @@
+{
+  "name": "the-movie-app",
+  "version": "1.0.0",
+  "description": "consumo practico de API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresRiveroLedo/The-Movie-APP.git"
+  },
+  "keywords": [
+    "apis",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Andres Rivero Ledo <andresriveroformacion@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndresRiveroLedo/The-Movie-APP/issues"
+  },
+  "homepage": "https://github.com/AndresRiveroLedo/The-Movie-APP#readme"
+}
